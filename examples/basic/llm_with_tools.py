@@ -1,5 +1,5 @@
 from tilores import TiloresAPI
-from langchain_tilores import TiloresTools
+from tilores_langchain import TiloresTools
 from langchain_openai import ChatOpenAI
 from langchain_core.messages import HumanMessage
 
