@@ -1,6 +1,6 @@
 import unittest
 from tilores import TiloresAPI
-from langchain_tilores import TiloresTools
+from tilores_langchain import TiloresTools
 
 class IntegrationTest(unittest.TestCase):
     """
